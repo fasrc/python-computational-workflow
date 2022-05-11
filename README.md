@@ -10,8 +10,12 @@ In this example we'll load, process, visualize, and train a classifier for the [
 
 ## Run
 
-1. Run `jupyter notebook` from this folder
+1. Run `jupyter notebook` from this folder.
 
-2. Open [notebook.ipynb](notebook.ipynb) and run the cells 
+2. Open [notebook.ipynb](notebook.ipynb) and run the cells.
 
-3. The result, [model.png](model.png), will be written to disk
+3. The result, [model.png](model.png), will be written to disk.
+
+4. Validate your model using `validate_hypothesis` in the final cell.
+
+5. Optionally save your model to `.csv` files using the notebook. This can be opened in any language or spreadsheet viewer.
